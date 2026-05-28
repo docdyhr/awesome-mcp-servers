@@ -1,3 +1,13 @@
+<div align="right">
+
+<a href="https://railway.com?referralCode=QhjuBc">
+
+  <img width="160" src="https://raw.githubusercontent.com/docdyhr/.github/main/assets/railway-corner-v2@2x.png" alt="Deploy on Railway — $20 free credits">
+
+</a>
+
+</div>
+
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
